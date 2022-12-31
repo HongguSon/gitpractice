@@ -1,2 +1,2 @@
-print('hello')
+piro naver
 piro cart
